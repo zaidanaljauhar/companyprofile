@@ -81,7 +81,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #428bca;
+  background: #351bca;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -95,7 +95,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #629fd3;
+  background: #9099fa;
   color: #fff;
 }
 
@@ -1422,14 +1422,14 @@ section {
   font-size: 16px;
   padding: 0 20px 0 20px;
   margin: 3px;
-  background: #428bca;
+  background: #f57878;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #3071a9;
+  background: #a93044;
 }
 
 #footer .footer-top {
